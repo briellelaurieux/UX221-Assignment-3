@@ -27,6 +27,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/google-analytics/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/pink-flowy-tank/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/blue-plaid-lace-tank/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/black-button-lace-long-sleeve/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/green-henley-top/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/brown-lace-long-sleeve/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
